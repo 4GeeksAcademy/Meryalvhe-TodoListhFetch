@@ -1,0 +1,7 @@
+.hidden-icon > span {
+    visibility:hidden;
+}
+
+.hidden-icon:hover > span {
+    visibility: visible;
+}
